@@ -1,6 +1,7 @@
 ## WELCOME TO MY NOOB GITHUB PAGES
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hallo im idzeroid <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="150px">    
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hallo im idzeroid <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="130px">  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>  
+ 
 
 <p align="center"><a href="https://t.me/idzero_gr"><img src="https://telegra.ph/file/378aae4c3cc5c066e49f6.jpg" width="2000"></a></p>
 
