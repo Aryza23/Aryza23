@@ -1,4 +1,4 @@
-## WELCOME TO MY NOOB GITHUB PAGES
+## Welcome To My Noob Github Pages [![Profile Views](https://gpvc.arturio.dev/idzero23)](https://github.com/idzero23)
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hallo im idzeroid <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="130px">  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>  
  
