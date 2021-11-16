@@ -11,6 +11,8 @@ Im sorry im still learning
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40Idzeroidsupport&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DIdzeroidsupport&longCache=true%22)](https://t.me/idzeroidsupport)
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40IdzeroidMovieChannel&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DIdzeroidMovieChannel&longCache=true%22)](https://t.me/artezid)
    
+## Trophy
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idzero23" alt="idzero23" /></a> </p>
 
 ##  🐙 **Github Stats** 
 
