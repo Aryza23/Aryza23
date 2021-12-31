@@ -1,5 +1,3 @@
-## Welcome To My Noob Github Pages [![Profile Views](https://gpvc.arturio.dev/idzero23)](https://github.com/idzero23) 
-Im sorry im still learning
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hallo im idzeroid <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="130px">  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>  
  
@@ -19,8 +17,11 @@ Im sorry im still learning
 [![github stats](https://github-readme-stats.vercel.app/api?username=idzero23&show_icons=true&theme=radical)](https://github.com/idzero23)
 ![GitHub followers](https://img.shields.io/github/followers/idzero23?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/idzero23?affiliations=OWNER&color=aqua&style=for-the-badge)
+[![Profile Views](https://gpvc.arturio.dev/idzero23)](https://github.com/idzero23) 
 
 
 ## 🌐 **Top Languages**
 
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idzero23&show_icons=true&theme=radical&layout=compact)](https://github.com/idzero23)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idzero23&custom_title=My%20Top%20Used%20Languages&theme=algolia&hide_border=true)
