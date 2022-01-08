@@ -24,5 +24,3 @@
 ## 🌐 **Top Languages**
 
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idzero23&show_icons=true&theme=radical&layout=compact)](https://github.com/idzero23)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idzero23&custom_title=My%20Top%20Used%20Languages&theme=algolia&hide_border=true)
