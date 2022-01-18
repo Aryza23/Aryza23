@@ -12,7 +12,9 @@
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40AboutAryza&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DAboutAryza&longCache=true%22)](https://t.me/AboutAryza)
    
 ## Trophy
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aryza23" alt="Aryza23" /></a> </p>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Aryza23&themeblack&no-bg=true&no-frame=false&column=3&")
+ 
 
 ##  🐙 **Github Stats** 
 
@@ -24,3 +26,5 @@
 ## 🌐 **Top Languages**
 
 [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryza23&show_icons=true&theme=radical&layout=compact)](https://github.com/Aryza23)
+ __________________________________________________________________________________________________________________________________________________________________________________
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryza23" alt="Aryza23" /></p>
